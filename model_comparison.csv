@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score
+"Gradient Boosting,",98.50%,86.54%,66.18%,75.00%
+"Random Forest,",97.40%,58.89%,77.94%,67.09%
+"Decision Tree,",97.80%,70.69%,60.29%,65.08%
+"XGBoost,",95.65%,43.07%,86.76%,57.56%
+Logistic Regression,82.05%,13.90%,82.35%,23.78%
