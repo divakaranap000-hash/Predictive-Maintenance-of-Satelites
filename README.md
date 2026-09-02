@@ -61,7 +61,7 @@ Built in Power BI, covering:
 - A line chart of failures across 20-hour operating bands, filterable by satellite type
 - The model comparison table above, rendered as a Power BI table visual
 
-*(See `dashboard/` for a reference screenshot.)*
+
 
 ## Tech stack
 
